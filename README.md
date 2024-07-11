@@ -15,7 +15,8 @@ Prasad, A. & Chandra, S. (2024). PhiUSIIL Phishing URL (Website). UCI Machine Le
 #### Credits:
 | Image                      | First Name | Last Name       | Student ID | Class Level |
 |----------------------------|------------|-----------------|------------|-------------|
-| ![Jennifer Valencia](Media_Files/Jennifer_Valencia.jpeg) | Jennifer   | Valencia      | 0865975    | Graduate    |
-| ![Joyail Tokas](Media_Files/Joyail_Tokas.jpeg)           | Joyail     | Tokas         | 1030128    | Graduate    |
+| <img src="Media_Files/Jennifer_Valencia.jpeg" alt="Jennifer Valencia" width="100"/> | Jennifer   | Valencia      | 0865975    | Graduate    |
+| <img src="Media_Files/Joyail_Tokas.jpeg" alt="Joyail Tokas" width="100"/> | Joyail     | Tokas         | 1030128    | Graduate    |
+
 
 ---
